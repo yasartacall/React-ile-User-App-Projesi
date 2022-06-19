@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react-pose": "^4.0.10",
+    "uniqid": "^5.4.0"
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.3.0"
+  }
+}
